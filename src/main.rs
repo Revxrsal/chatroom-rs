@@ -24,7 +24,7 @@ async fn main() {
     if let Err(why) = connect("127.0.0.1:2000", rx).await {
         eprintln!("failed to connect to server! :(");
         eprintln!("{:?}", why);
-        return;
+        exit(0);
     }
 }
 
