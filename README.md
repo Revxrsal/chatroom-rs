@@ -26,6 +26,6 @@ excited-octopus has left the chat!
 You are known as 'cool-squirrel'
 cool-squirrel has joined the chat!
 <cool-squirrel> hello!
-<cool-squirrel> i'm mr. squirrel
-<cool-squirrel> nice to meet y'all. o/
+<cool-squirrel> mr. squirrel here
+<cool-squirrel> nice to meet yall. o/
 ```
